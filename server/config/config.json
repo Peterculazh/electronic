@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "Petr I",
+    "password": "root",
+    "database": "electronic",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "Petr I",
+    "password": "root",
+    "database": "electronic",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "Petr I",
+    "password": "root",
+    "database": "electronic",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
